@@ -1,0 +1,35 @@
+INPUT: FLOOD kiwi.cs.ucla.edu +34.068930-118.445127 1614209128.918963997 Riley 1615608775.2095325
+
+Opened Connection to Jaquez from Bernard
+INPUT: FLOOD kiwi.cs.ucla.edu +34.068930-118.445127 1614209128.918963997 Riley 1615608775.2095325
+
+Opened Connection to Juzang from Bernard
+INPUT: FLOOD kiwi.cs.ucla.edu +34.068930-118.445127 1614209128.918963997 Riley 1615608775.2095325
+
+Opened Connection to Campbell from Bernard
+INPUT: FLOOD jeff.usc.edu +40.068930-124.445127 1614209128.918963997 Juzang 1615608791.543912
+
+Opened Connection to Jaquez from Bernard
+INPUT: FLOOD jeff.usc.edu +40.068930-124.445127 1614209128.918963997 Juzang 1615608791.543912
+
+Opened Connection to Juzang from Bernard
+Opened Connection to Campbell from Bernard
+INPUT: FLOOD jeff.usc.edu +40.068930-124.445127 1614209128.918963997 Juzang 1615608791.543912
+
+INPUT: WHATSAT jeff.usc.edu 10 5
+OUTPUT: AT Juzang +1399662.6249480247 jeff.usc.edu +40.068930-124.445127 1614209128.918963997
+{
+   "html_attributions": [],
+   "results": [],
+   "status": "ZERO_RESULTS"
+}
+
+INPUT: FLOOD kiwi.cs.ucla.edu +45.068930-118.445127 1724209128.918963997 Riley 1615608812.7557156
+
+Opened Connection to Jaquez from Bernard
+INPUT: FLOOD kiwi.cs.ucla.edu +45.068930-118.445127 1724209128.918963997 Riley 1615608812.7557156
+
+INPUT: FLOOD kiwi.cs.ucla.edu +45.068930-118.445127 1724209128.918963997 Riley 1615608812.7557156
+
+Opened Connection to Juzang from Bernard
+Opened Connection to Campbell from Bernard
